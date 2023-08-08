@@ -1,8 +1,6 @@
 ### Ello
 
 - Python developer
-- I like to code.
-- Teach me Rust please
 
 [![@haff96's Holopin board](https://holopin.me/haff96)](https://holopin.io/@haff96)
 <!--
